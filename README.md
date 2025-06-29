@@ -30,7 +30,7 @@ A fun and light-hearted web application that delivers random programming jokes u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/asmath-akbar-ali/joke-generator-app.git
+   git clone https://github.com/asmath-akbar-ali/joke-generator.git
 
 2. Navigate to the project folder:
    ```bash
