@@ -30,11 +30,11 @@ A fun and light-hearted web application that delivers random programming jokes u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/joke-generator-app.git
+   git clone https://github.com/asmath-akbar-ali/joke-generator-app.git
 
 2. Navigate to the project folder:
    ```bash
-   cd joke-generator-app
+   cd joke-generator
    ```
    
    Open the file index.html in your browser.
@@ -75,4 +75,4 @@ Joke-Generator/
 
 ## Website Link
   ```bash
-  www.com
+  https://aaa-joke-generator.vercel.app/
